@@ -96,10 +96,7 @@ self.video = cv2.VideoCapture(1)  # Thử 1 thay vì 0
 self.video.set(cv2.CAP_PROP_FRAME_WIDTH, 480)   # Thay vì 640
 self.video.set(cv2.CAP_PROP_FRAME_HEIGHT, 360)  # Thay vì 480
 ```
+```
 pip install --upgrade opencv-python mediapipe pillow numpy
 ```
 
-
-**🌟 Hãy để Vũ Trụ Ma Thuật biến camera của bạn thành cổng thông tin đến thế giới phép thuật! 🌟**
-
-*Nếu bạn thích dự án này, hãy cho một ⭐ trên GitHub nhé!*
